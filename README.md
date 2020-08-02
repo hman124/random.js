@@ -4,7 +4,7 @@ A random string generator with letters and numbers
 
 ## Adding it
 
-Simply Add this to the bottom of the `<body>` tag:
+Simply add this `<script>` tag to the bottom of the `<body>` tag:
 
 `<script src="https://cdn.jsdelivr.net/gh/hman124/random.js/random.min.js"></script>`
 
