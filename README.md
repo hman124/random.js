@@ -10,4 +10,4 @@ Simply Add this to the bottom of the `<body>` tag:
 
 ## Using it
 
-To generate a rendom string, use the `generate()` function with a length parameter specifying how long you want the string to be. Example: `generate(5)` will return `XXXXX`.
+To generate a rendom string, use the `generateStr()` function with a length parameter specifying how long you want the string to be. Example: `generateStr(5)` will return `XXXXX`.
