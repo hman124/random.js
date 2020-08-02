@@ -1,4 +1,4 @@
-function generate(length) {
+function generateStr(length) {
   // 50/50 Chance It will be a letter or a number
   var chance = Math.floor(Math.random() * 2);
   // List of letters
